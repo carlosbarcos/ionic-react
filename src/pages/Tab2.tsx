@@ -13,7 +13,7 @@ const Tab2: React.FC = () => {
         <IonList>
           <IonItem routerLink="/tab2/details">
             <IonLabel>
-              <h2>Go to detail</h2>
+              <h2>Eventos del fin de semana</h2>
             </IonLabel>
           </IonItem>
         </IonList>
